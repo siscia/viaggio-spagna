@@ -9,10 +9,10 @@
 
 | Città     | Arrivo | Partenza |
 |:---------:|:------:|:--------:|
-|Barcelona  |08/09   | 12/09	|
-|Madrid     |12/09   | 15/09    |
-|Siviglia   |15/09   | 18/09    |
-|Valencia   |18/09   | 22/09    |
+|Barcelona  |08/09   | 12/08	|
+|Madrid     |12/08   | 15/08    |
+|Siviglia   |15/08   | 18/08    |
+|Valencia   |18/08   | 22/08    |
 
 ## Sistemazioni, in ordine di scelta
 
