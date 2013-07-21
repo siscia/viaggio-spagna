@@ -27,12 +27,14 @@
 ## Itinerario
 
 ### Costi
-* Pisa -> Barcelona (Girona) Aereo Ryanair	50 €
-* Barcelona -> Madrid	   Treno 	  	30 €
-* Madrid -> Siviglia	   Treno	  	30 €
-* Siviglia -> Valencia	   Treno	  	30 €
-* Valencia -> Pisa  	   Aereo Ryanair  	70 €
-* Totale    		   	 	 	210€
+| Tratta                   | Mezzo        | Costo  |
+|:------------------------:|:------------:|:------:|
+|Pisa -> Barcelona (Girona)|Aereo Ryanair |  50 €  |
+|Barcelona -> Madrid	   |Treno 	  |  30 €  |
+|Madrid -> Siviglia	   |Treno	  |  30 €  |
+|Siviglia -> Valencia	   |Treno	  |  30 €  |
+|Valencia -> Pisa  	   |Aereo Ryanair |  70 €  |
+|Totale	       		   |	 	  | 210 €  |
 
 ### Dettagli
 * [Barcelona -> Madrid (Esterella 00373)](http://horarios.renfe.com/HIRRenfeWeb/recorrido.do?O=71801&D=17000&F=12-08-2013&T=00373&G=1&TT=ESTRELLA&ID=s&FDS=2013-06-22&DT=9%20h.%201%20min.) ca. 9 hr di notte partenza ore 22.20 giornaliero
