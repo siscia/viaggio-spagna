@@ -20,12 +20,6 @@
 * [Airbnb](https://www.airbnb.com/)
 * Hostel (Ostelli)
 
-## Trasporti
-
-* Aereo
-* Treno
-* Autobus
-
 ## Itinerario
 
 ### Costi
@@ -45,11 +39,13 @@
 
 #### Valutazione InterRail
 ##### Costi
-* 5  gg su 10	->	181 €
-* 10 gg su 22 	->	265 €
-* 15 gg	   	->	307 €
-* 22 gg		->	339 €
-* 30 gg		->	435 €
+|Tipologia  | Costo |
+|:---------:|:-----:|
+|5  gg su 10| 181 € |
+|10 gg su 22| 265 € |
+|15 gg	    | 307 € |
+|22 gg	    | 339 € |
+|30 gg	    | 435 € |
 
 ##### Pro 
 * Maggiore Liberta (???)
@@ -63,3 +59,5 @@
 
 * Carta d'identità
 * Passaporto
+
+## Informazioni sulle città e Turismo
