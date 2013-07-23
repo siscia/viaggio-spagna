@@ -1,65 +1,45 @@
-# Viaggio in Spagna, Agosto 2013
+# Trip in Spain, August 2013
 
 ## Comunità di supporto:
 
 * [Couchsurfing](http://couchsurfing.org/)
 * [BeWelcome](http://www.bewelcome.org/)
 
-## Città da toccare
+## Citta da vedere:
 
 | Città     | Arrivo | Partenza |
 |:---------:|:------:|:--------:|
 |Barcelona  |08/09   | 12/08	|
-|Madrid     |12/08   | 15/08    |
-|Siviglia   |15/08   | 18/08    |
-|Valencia   |18/08   | 22/08    |
+|Valencia   |12/08   | 15/08    |
+|Seville    |15/08   | 18/08    |
+|Madrid	    |18/08   | 21/08    |
 
-## Sistemazioni, in ordine di scelta
+## Sistemazioni
 
 * Community (Couchsurfing/BeWelcome)
 * [Airbnb](https://www.airbnb.com/)
-* Hostel (Ostelli)
+* Hostel
 
-## Itinerario
+## Viaggio
 
 ### Costi
-| Tratta                   | Mezzo        | Costo  |
+| From -> To               | Transport    | Cost   |
 |:------------------------:|:------------:|:------:|
-|Pisa -> Barcelona (Girona)|Aereo Ryanair |  50 €  |
-|Barcelona -> Madrid	   |Treno 	  |  30 €  |
-|Madrid -> Siviglia	   |Treno	  |  30 €  |
-|Siviglia -> Valencia	   |Treno	  |  30 €  |
-|Valencia -> Pisa  	   |Aereo Ryanair |  70 €  |
-|Totale	       		   |	 	  | 210 €  |
+|Pisa -> Barcelona (Girona)|Air Ryanair   | 105 €  |
+|Barcelona -> Valencia	   |Train 	  |  30 €  |
+|Valencia -> Seville	   |Train	  |  30 €  |
+|Seville -> Madrid	   |Train	  |  30 €  |
+|Madrid -> Pisa  	   |Air Ryanair   |  80 €  |
+|Tot	       		   |	 	  | 275 €  |
 
-### Dettagli
-* [Barcelona -> Madrid (Esterella 00373)](http://horarios.renfe.com/HIRRenfeWeb/recorrido.do?O=71801&D=17000&F=12-08-2013&T=00373&G=1&TT=ESTRELLA&ID=s&FDS=2013-06-22&DT=9%20h.%201%20min.) ca. 9 hr di notte partenza ore 22.20 giornaliero
-* [Madrid -> Siviglia](http://horarios.renfe.com/HIRRenfeWeb/recorrido.do?O=60000&D=51003&F=13-08-2013&T=02070&G=1&TT=AVE&ID=s&FDS=2013-07-15&DT=2%20h.%2035%20min.) ca. 2.35 hr treni ogni ora
-* [Siviglia -> Valencia](http://horarios.renfe.com/HIRRenfeWeb/recorrido.do?O=51003&D=65000&F=18-08-2013&T=00694&G=1&TT=TALGO&ID=s&FDS=2013-06-02&DT=7%20h.%2027%20min.)  ca. 7.30 hr partenza ore 8.35 giornaliero
+### Question:
+Does the train ticket cost change if I book it early or if I buy it at the train station ?
 
-#### Valutazione InterRail
-##### Costi
-|Tipologia  | Costo |
-|:---------:|:-----:|
-|5  gg su 10| 181 € |
-|10 gg su 22| 265 € |
-|15 gg	    | 307 € |
-|22 gg	    | 339 € |
-|30 gg	    | 435 € |
+### Details
+* [Barcelona -> Valencia](http://horarios.renfe.com/HIRRenfeWeb/recorrido.do?O=71801&D=03216&F=15-08-2013&T=01091&G=1&TT=EUROMED&ID=s&FDS=2013-06-23&DT=2%20h.%2059%20min.) ca. 3 hr, departure at 9.00 every other hour
+* [Valencia -> Seville](http://horarios.renfe.com/HIRRenfeWeb/recorrido.do?O=03216&D=51003&F=15-08-2013&T=03983&G=1&TT=AVE&ID=s&FDS=2013-06-19&DT=3%20h.%2050%20min.) ca. 4 hr, departure at 8.15 daily
+* [Seville -> Madrid](http://horarios.renfe.com/HIRRenfeWeb/recorrido.do?O=51003&D=60000&F=04-08-2013&T=02081&G=1&TT=AVE&ID=s&FDS=2013-07-21&DT=2%20h.%2030%20min.) ca. 2,30 hr, departure at 8.45 often
 
-##### Pro 
-* Maggiore Liberta (???)
-* Possibilità di vedere più posti, specialmente piccoli paesini.
-
-##### Contro
-* Più costoso
-* Più lento (???)
-
-## Documenti
-
-* Carta d'identità
-* Passaporto
-
-## Informazioni sulle città e Turismo
+## Information about the cities
 
 [Informazioni turistiche alle città](http://urli.st/bnu-Viaggio-Spagna-Citt%C3%A0)
